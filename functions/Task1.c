@@ -19,7 +19,6 @@ int displayMenu()
     printf("2: Delete\n");
     printf("3: Exit\n\n");
 }
-
 int display_all_record() 
 {
     for(int i=0;i<=index_num;i++)
